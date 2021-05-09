@@ -209,7 +209,7 @@ def draw_bounding_box_on_image(image,
               width=thickness,
               fill=color)
   try:
-    font = ImageFont.truetype('Proxima Nova Bold.otf', 12)
+    font = ImageFont.truetype('ProximaNova-Regular.otf', 12)
   except IOError:
     font = ImageFont.load_default()
 
