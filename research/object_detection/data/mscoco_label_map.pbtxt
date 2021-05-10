@@ -6,7 +6,7 @@ item {
 item {
   name: "/m/0199g"
   id: 2
-  display_name: "bicycle"
+  display_name: "Bicycle"
 }
 item {
   name: "/m/0k4j"
@@ -16,385 +16,385 @@ item {
 item {
   name: "/m/04_sv"
   id: 4
-  display_name: "motorcycle"
+  display_name: "Motorcycle"
 }
 item {
   name: "/m/05czz6l"
   id: 5
-  display_name: "airplane"
+  display_name: "Airplane"
 }
 item {
   name: "/m/01bjv"
   id: 6
-  display_name: "bus"
+  display_name: "Bus"
 }
 item {
   name: "/m/07jdr"
   id: 7
-  display_name: "train"
+  display_name: "Train"
 }
 item {
   name: "/m/07r04"
   id: 8
-  display_name: "truck"
+  display_name: "Truck"
 }
 item {
   name: "/m/019jd"
   id: 9
-  display_name: "boat"
+  display_name: "Boat"
 }
 item {
-  name: "/m/015qff"
+  name: "/m/015qfF"
   id: 10
-  display_name: "traffic light"
+  display_name: "Traffic Light"
 }
 item {
   name: "/m/01pns0"
   id: 11
-  display_name: "fire hydrant"
+  display_name: "Fire Hydrant"
 }
 item {
   name: "/m/02pv19"
   id: 13
-  display_name: "stop sign"
+  display_name: "Stop Sign"
 }
 item {
-  name: "/m/015qbp"
+  name: "/m/015qbP"
   id: 14
-  display_name: "parking meter"
+  display_name: "Parking Meter"
 }
 item {
-  name: "/m/0cvnqh"
+  name: "/m/0cvnqH"
   id: 15
-  display_name: "bench"
+  display_name: "Bench"
 }
 item {
   name: "/m/015p6"
   id: 16
-  display_name: "bird"
+  display_name: "Bird"
 }
 item {
   name: "/m/01yrx"
   id: 17
-  display_name: "cat"
+  display_name: "Cat"
 }
 item {
-  name: "/m/0bt9lr"
+  name: "/m/0bt9lR"
   id: 18
-  display_name: "dog"
+  display_name: "Dog"
 }
 item {
   name: "/m/03k3r"
   id: 19
-  display_name: "horse"
+  display_name: "Horse"
 }
 item {
   name: "/m/07bgp"
   id: 20
-  display_name: "sheep"
+  display_name: "Sheep"
 }
 item {
-  name: "/m/01xq0k1"
+  name: "/m/01xq0K1"
   id: 21
-  display_name: "cow"
+  display_name: "Cow"
 }
 item {
   name: "/m/0bwd_0j"
   id: 22
-  display_name: "elephant"
+  display_name: "Elephant"
 }
 item {
   name: "/m/01dws"
   id: 23
-  display_name: "bear"
+  display_name: "Bear"
 }
 item {
   name: "/m/0898b"
   id: 24
-  display_name: "zebra"
+  display_name: "Zebra"
 }
 item {
   name: "/m/03bk1"
   id: 25
-  display_name: "giraffe"
+  display_name: "Giraffe"
 }
 item {
-  name: "/m/01940j"
+  name: "/m/01940J"
   id: 27
-  display_name: "backpack"
+  display_name: "Backpack"
 }
 item {
   name: "/m/0hnnb"
   id: 28
-  display_name: "umbrella"
+  display_name: "Umbrella"
 }
 item {
   name: "/m/080hkjn"
   id: 31
-  display_name: "handbag"
+  display_name: "Handbag"
 }
 item {
   name: "/m/01rkbr"
   id: 32
-  display_name: "tie"
+  display_name: "Tie"
 }
 item {
   name: "/m/01s55n"
   id: 33
-  display_name: "suitcase"
+  display_name: "Suitcase"
 }
 item {
   name: "/m/02wmf"
   id: 34
-  display_name: "frisbee"
+  display_name: "Frisbee"
 }
 item {
   name: "/m/071p9"
   id: 35
-  display_name: "skis"
+  display_name: "Skis"
 }
 item {
   name: "/m/06__v"
   id: 36
-  display_name: "snowboard"
+  display_name: "Snowboard"
 }
 item {
   name: "/m/018xm"
   id: 37
-  display_name: "sports ball"
+  display_name: "Sports Ball"
 }
 item {
   name: "/m/02zt3"
   id: 38
-  display_name: "kite"
+  display_name: "Kite"
 }
 item {
-  name: "/m/03g8mr"
+  name: "/m/03g8mR"
   id: 39
-  display_name: "baseball bat"
+  display_name: "Baseball Bat"
 }
 item {
-  name: "/m/03grzl"
+  name: "/m/03grzL"
   id: 40
-  display_name: "baseball glove"
+  display_name: "Baseball Glove"
 }
 item {
   name: "/m/06_fw"
   id: 41
-  display_name: "skateboard"
+  display_name: "Skateboard"
 }
 item {
   name: "/m/019w40"
   id: 42
-  display_name: "surfboard"
+  display_name: "Surfboard"
 }
 item {
   name: "/m/0dv9c"
   id: 43
-  display_name: "tennis racket"
+  display_name: "Tennis Racket"
 }
 item {
   name: "/m/04dr76w"
   id: 44
-  display_name: "bottle"
+  display_name: "Bottle"
 }
 item {
-  name: "/m/09tvcd"
+  name: "/m/09tvcD"
   id: 46
-  display_name: "wine glass"
+  display_name: "Wine Glass"
 }
 item {
-  name: "/m/08gqpm"
+  name: "/m/08gqpM"
   id: 47
-  display_name: "cup"
+  display_name: "Cup"
 }
 item {
   name: "/m/0dt3t"
   id: 48
-  display_name: "fork"
+  display_name: "Fork"
 }
 item {
   name: "/m/04ctx"
   id: 49
-  display_name: "knife"
+  display_name: "Knife"
 }
 item {
   name: "/m/0cmx8"
   id: 50
-  display_name: "spoon"
+  display_name: "Spoon"
 }
 item {
-  name: "/m/04kkgm"
+  name: "/m/04kkgM"
   id: 51
-  display_name: "bowl"
+  display_name: "Bowl"
 }
 item {
   name: "/m/09qck"
   id: 52
-  display_name: "banana"
+  display_name: "Banana"
 }
 item {
-  name: "/m/014j1m"
+  name: "/m/014j1M"
   id: 53
-  display_name: "apple"
+  display_name: "Apple"
 }
 item {
   name: "/m/0l515"
   id: 54
-  display_name: "sandwich"
+  display_name: "Sandwich"
 }
 item {
   name: "/m/0cyhj_"
   id: 55
-  display_name: "orange"
+  display_name: "Orange"
 }
 item {
   name: "/m/0hkxq"
   id: 56
-  display_name: "broccoli"
+  display_name: "Broccoli"
 }
 item {
-  name: "/m/0fj52s"
+  name: "/m/0fj52S"
   id: 57
-  display_name: "carrot"
+  display_name: "Carrot"
 }
 item {
-  name: "/m/01b9xk"
+  name: "/m/01b9xK"
   id: 58
-  display_name: "hot dog"
+  display_name: "Hot Dog"
 }
 item {
   name: "/m/0663v"
   id: 59
-  display_name: "pizza"
+  display_name: "Pizza"
 }
 item {
   name: "/m/0jy4k"
   id: 60
-  display_name: "donut"
+  display_name: "Donut"
 }
 item {
   name: "/m/0fszt"
   id: 61
-  display_name: "cake"
+  display_name: "Cake"
 }
 item {
-  name: "/m/01mzpv"
+  name: "/m/01mzpV"
   id: 62
-  display_name: "chair"
+  display_name: "Chair"
 }
 item {
   name: "/m/02crq1"
   id: 63
-  display_name: "couch"
+  display_name: "Couch"
 }
 item {
   name: "/m/03fp41"
   id: 64
-  display_name: "potted plant"
+  display_name: "Potted Plant"
 }
 item {
   name: "/m/03ssj5"
   id: 65
-  display_name: "bed"
+  display_name: "Bed"
 }
 item {
   name: "/m/04bcr3"
   id: 67
-  display_name: "dining table"
+  display_name: "Dining Table"
 }
 item {
   name: "/m/09g1w"
   id: 70
-  display_name: "toilet"
+  display_name: "Toilet"
 }
 item {
   name: "/m/07c52"
   id: 72
-  display_name: "tv"
+  display_name: "Tv"
 }
 item {
   name: "/m/01c648"
   id: 73
-  display_name: "laptop"
+  display_name: "Laptop"
 }
 item {
   name: "/m/020lf"
   id: 74
-  display_name: "mouse"
+  display_name: "Mouse"
 }
 item {
   name: "/m/0qjjc"
   id: 75
-  display_name: "remote"
+  display_name: "Remote"
 }
 item {
   name: "/m/01m2v"
   id: 76
-  display_name: "keyboard"
+  display_name: "Keyboard"
 }
 item {
   name: "/m/050k8"
   id: 77
-  display_name: "cell phone"
+  display_name: "Cell Phone"
 }
 item {
   name: "/m/0fx9l"
   id: 78
-  display_name: "microwave"
+  display_name: "Microwave"
 }
 item {
-  name: "/m/029bxz"
+  name: "/m/029bxZ"
   id: 79
-  display_name: "oven"
+  display_name: "Oven"
 }
 item {
   name: "/m/01k6s3"
   id: 80
-  display_name: "toaster"
+  display_name: "Toaster"
 }
 item {
-  name: "/m/0130jx"
+  name: "/m/0130jX"
   id: 81
-  display_name: "sink"
+  display_name: "Sink"
 }
 item {
-  name: "/m/040b_t"
+  name: "/m/040b_T"
   id: 82
-  display_name: "refrigerator"
+  display_name: "Refrigerator"
 }
 item {
   name: "/m/0bt_c3"
   id: 84
-  display_name: "book"
+  display_name: "Book"
 }
 item {
   name: "/m/01x3z"
   id: 85
-  display_name: "clock"
+  display_name: "Clock"
 }
 item {
   name: "/m/02s195"
   id: 86
-  display_name: "vase"
+  display_name: "Vase"
 }
 item {
-  name: "/m/01lsmm"
+  name: "/m/01lsmM"
   id: 87
-  display_name: "scissors"
+  display_name: "Scissors"
 }
 item {
   name: "/m/0kmg4"
   id: 88
-  display_name: "teddy bear"
+  display_name: "Teddy Bear"
 }
 item {
-  name: "/m/03wvsk"
+  name: "/m/03wvsK"
   id: 89
-  display_name: "hair drier"
+  display_name: "Hair Drier"
 }
 item {
-  name: "/m/012xff"
+  name: "/m/012xfF"
   id: 90
-  display_name: "toothbrush"
+  display_name: "Toothbrush"
 }
